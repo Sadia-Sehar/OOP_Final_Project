@@ -501,7 +501,7 @@ using namespace std;
                 cout << "Invalid choice. Please try again." << endl;
             }
         }
-
+        cout << "Hi";
 
         return 0;
     }
