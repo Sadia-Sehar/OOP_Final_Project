@@ -1,0 +1,8 @@
+[2025-05-01 13:26:05] Score: 5000, Resource Usage: 1000
+[2025-05-01 13:28:11] Score: 5000, Resource Food Usage: 1000
+[2025-05-01 13:29:27] Score: 5000, Resource Food Usage: 1000
+[2025-05-01 13:32:42] Score: 5000, Resource Food Usage: 1000
+[2025-05-01 13:34:17] Score: 5000, Resource Food Usage: 1000
+[2025-05-01 13:34:56] Score: 5000, Resource Food Usage: 1000
+[2025-05-01 19:09:51] Score: 105000, Resource Food Usage: 4500
+[2025-05-01 19:48:09] Score: 4200, Resource Food Usage: 4500

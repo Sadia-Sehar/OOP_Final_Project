@@ -1,0 +1,52 @@
+[2025-05-01 13:29:27] Current Population: 1000
+[2025-05-01 13:29:27] Current Treasury: 5000
+[2025-05-01 13:29:27] Current Resource Quantity: 1000
+[2025-05-01 13:29:27] Current Army size: 100
+[2025-05-01 13:29:27] Current Happiness level: 75
+[2025-05-01 13:29:27] Current Leader: King Arthur
+[2025-05-01 13:29:27] Popularity of current leader: 100
+[2025-05-01 13:32:42] Current Population: 1000
+[2025-05-01 13:32:42] Current Treasury: 5000
+[2025-05-01 13:32:42] Current Resource Quantity: 1000
+[2025-05-01 13:32:42] Current Army size: 100
+[2025-05-01 13:32:42] Current Happiness level: 75
+[2025-05-01 13:32:42] Current Leader: King Arthur
+[2025-05-01 13:32:42] Popularity of current leader: 100
+[2025-05-01 13:34:17] Current Population: 1000
+[2025-05-01 13:34:17] Current Treasury: 5000
+[2025-05-01 13:34:17] Current Resource Quantity: 1000
+[2025-05-01 13:34:17] Current Army size: 100
+[2025-05-01 13:34:17] Current Happiness level: 75
+[2025-05-01 13:34:17] Current Leader: King Arthur
+[2025-05-01 13:34:17] Popularity of current leader: 100
+--------------
+[2025-05-01 13:34:56] Current Population: 1000
+[2025-05-01 13:34:56] Current Treasury: 5000
+[2025-05-01 13:34:56] Current Resource Quantity: 1000
+[2025-05-01 13:34:56] Current Army size: 100
+[2025-05-01 13:34:56] Current Happiness level: 75
+[2025-05-01 13:34:56] Current Leader: King Arthur
+[2025-05-01 13:34:56] Popularity of current leader: 100
+                              --------------                            
+[2025-05-01 19:09:51] Current Population: 5000
+[2025-05-01 19:09:51] Current Treasury: 105000
+[2025-05-01 19:09:51] Current Resource (Food) Quantity: 4500
+[2025-05-01 19:09:51] Current Resource (Wood) Quantity: 550
+[2025-05-01 19:09:51] Current Resource (Iron) Quantity: 200
+[2025-05-01 19:09:51] Current Army size: 150
+[2025-05-01 19:09:51] Current Happiness level(Merchants): 77
+[2025-05-01 19:09:51] Current Happiness level(Peasants): 80
+[2025-05-01 19:09:51] Current Leader: Alice
+[2025-05-01 19:09:51] Popularity of current leader: 70
+                    ---------------------                           
+[2025-05-01 19:48:09] Current Population: 4500
+[2025-05-01 19:48:09] Current Treasury: 4200
+[2025-05-01 19:48:09] Current Resource (Food) Quantity: 4500
+[2025-05-01 19:48:09] Current Resource (Wood) Quantity: 550
+[2025-05-01 19:48:09] Current Resource (Iron) Quantity: 200
+[2025-05-01 19:48:09] Current Army size: 150
+[2025-05-01 19:48:09] Current Happiness level(Merchants): 77
+[2025-05-01 19:48:09] Current Happiness level(Peasants): 80
+[2025-05-01 19:48:09] Current Leader: Alice
+[2025-05-01 19:48:09] Popularity of current leader: 70
+                    ---------------------                           

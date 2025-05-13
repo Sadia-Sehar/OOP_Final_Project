@@ -1,0 +1,21 @@
+﻿  AI.cpp
+  AllianceManager.cpp
+  Bank.cpp
+  CommunicationSystem.cpp
+  ConflictManager.cpp
+  Economy.cpp
+  Event.cpp
+  GameSession.cpp
+  Leadership.cpp
+  Map.cpp
+  Market.cpp
+  Military.cpp
+  main.cpp
+  Player.cpp
+  Population.cpp
+C:\Users\sadia\OneDrive\文档\OOP\OOP_LAB_Project\OOP_LAB_Project\Population.cpp(42,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Resource.cpp
+  Society.cpp
+  Territory.cpp
+  Generating Code...
+  OOP_LAB_Project.vcxproj -> C:\Users\sadia\OneDrive\文档\OOP\OOP_LAB_Project\x64\Debug\OOP_LAB_Project.exe
